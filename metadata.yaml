@@ -1,5 +1,8 @@
 _repo: The-Confession_1963
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -12,6 +15,8 @@ description: '"Agnes Blakiston did not want to rent the old parsonage from Miss 
   Benton and soon came to regret it. At night the phone would ring and there would
   be unseen visitors. Was the house haunted? And did Miss Emily have a secret so terrible
   she would rather die than reveal it?"-Cover p. [4].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1963#The-Confession
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
